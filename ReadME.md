@@ -5,6 +5,7 @@ Please follow the below steps to integrate this control in your next project.
 
 <br/><br/>
 <h1>Features</h1>
+
 - Enable/Disable Material Textfield
 - Set Placeholder Color
 - Show Bottom Line
